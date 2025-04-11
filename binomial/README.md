@@ -1,3 +1,9 @@
+[![author](https://img.shields.io/badge/author-Paola_Silva-red.svg)]([https://www.linkedin.com/in/paolaufsj/]([https://www.linkedin.com/in/paolaufsj/](https://www.linkedin.com/in/paolaufsj/))) [![](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="imagem maneira relacionada ao projeto"height=400px >
+</p>
+
 # Distribuição Binomial
 
 Esta pasta contém materiais e exemplos práticos sobre a Distribuição Binomial.
