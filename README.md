@@ -1,3 +1,5 @@
+[![author](https://img.shields.io/badge/author-Paola_Silva-red.svg)]([https://www.linkedin.com/in/paolaufsj/]([https://www.linkedin.com/in/paolaufsj/](https://www.linkedin.com/in/paolaufsj/))) [![](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
+
 # Distribuições de Probabilidade
 
 Bem-vindo(a) ao repositório **Distribuições de Probabilidade**!  
