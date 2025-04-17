@@ -9,18 +9,18 @@ Aqui você encontrará exemplos, implementações e visualizações das principa
 
 Este repositório abrange diversas distribuições, organizadas em subpastas. Atualmente, você encontra:
 
-- **[Binomial](./Binomial.ipynb):** Estudo completo da Distribuição Binomial, com exemplos de função massa de probabilidade (PMF), função de distribuição acumulada (CDF) e exemplos.
-- **Bernoulli:** Implementação e exemplos da Distribuição de Bernoulli.
-- **Normal:** Implementação e exemplos da Distribuição Normal, com visualizações da função densidade de probabilidade (PDF) e da CDF.
+- **[Binomial](./Binomial.ipynb):** Estudo da Distribuição Binomial, com exemplos de função massa de probabilidade (PMF) e da função de distribuição acumulada (CDF).
+- **Poisson:** Implementação e exemplos da Distribuição de Poisson.
+- **Normal:** Implementação e exemplos da Distribuição Normal, com visualizações da função densidade de probabilidade (PDF) e da função de distribuição acumulada (CDF).
 
 > **Nota:** Em breve serão adicionadas mais distribuições e exemplos práticos para aprofundamento.
 
 ## Como Utilizar
 
-1. **Navegue pelas pastas:** Cada subpasta contém um README específico e notebooks com as implementações e demonstrações.
+1. **Navegue pelas jupyter notebooks:** Cada notebook contém implementações e exemplos.
 2. **Execute os notebooks:** Abra os arquivos .ipynb utilizando o Jupyter Notebook ou JupyterLab.
 
 ## Requisitos
 
 - Python 3.x
-- Bibliotecas: NumPy, SciPy, Matplotlib
+- Bibliotecas: NumPy, SciPy, Matplotlib, 
