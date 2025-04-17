@@ -10,7 +10,7 @@ Aqui você encontrará exemplos, implementações e visualizações das principa
 Este repositório abrange diversas distribuições, organizadas em subpastas. Atualmente, você encontra:
 
 - **[Binomial](./Binomial.ipynb):** Estudo da Distribuição Binomial, com exemplos de função massa de probabilidade (PMF) e da função de distribuição acumulada (CDF).
-- **Poisson:** Implementação e exemplos da Distribuição de Poisson.
+- **[Poisson](./Poisson.ipynb):** Implementação e exemplos da Distribuição de Poisson.
 - **Normal:** Implementação e exemplos da Distribuição Normal, com visualizações da função densidade de probabilidade (PDF) e da função de distribuição acumulada (CDF).
 
 > **Nota:** Em breve serão adicionadas mais distribuições e exemplos práticos para aprofundamento.
