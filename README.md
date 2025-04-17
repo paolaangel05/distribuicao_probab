@@ -3,7 +3,7 @@
 # Distribuições de Probabilidade
 
 Bem-vindo(a) ao repositório **Distribuições de Probabilidade**!  
-Aqui você encontrará exemplos, implementações e visualizações das principais distribuições utilizadas em estatística e probabilidade que estou revisando no **curso de aperfeiçomento da USP** (e que também tive a oportunidade de estudar quando fazia Ciência da Computação na UFSJ). O objetivo deste repositório é servir como material didático, com notebooks interativos e explicações teóricas que auxiliarão no entendimento dos conceitos fundamentais.
+Aqui você encontrará exemplos, implementações e visualizações das principais distribuições utilizadas em estatística e probabilidade que estou revisando no **curso de aperfeiçoamento da USP** (e que também tive a oportunidade de estudar quando fazia Ciência da Computação na UFSJ). O objetivo deste repositório é servir como material didático, com notebooks interativos e explicações teóricas que auxiliarão no entendimento dos conceitos fundamentais.
 
 ## Conteúdo
 
