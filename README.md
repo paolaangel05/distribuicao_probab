@@ -9,7 +9,7 @@ Aqui você encontrará exemplos, implementações e visualizações das principa
 
 Este repositório abrange diversas distribuições, organizadas em subpastas. Atualmente, você encontra:
 
-- **[Binomial](./binomial/README.md):** Estudo completo da Distribuição Binomial, com exemplos de função massa de probabilidade (PMF), função de distribuição acumulada (CDF), geração de amostras e muito mais.
+- **[Binomial](./binomial/README.md):** Estudo completo da Distribuição Binomial, com exemplos de função massa de probabilidade (PMF), função de distribuição acumulada (CDF) e exemplos.
 - **Bernoulli:** Implementação e exemplos da Distribuição de Bernoulli.
 - **Normal:** Implementação e exemplos da Distribuição Normal, com visualizações da função densidade de probabilidade (PDF) e da CDF.
 
